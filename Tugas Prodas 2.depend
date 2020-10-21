@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603246423 source:c:\dev\tugas prodas 2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<math.h>
+
